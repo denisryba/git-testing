@@ -5,7 +5,7 @@ function App() {
   return (
     <div className='container'>
       <div className='greetings-block'>
-        <h1>Privet. И тебе приветики</h1>
+        <h1>Privet. И тебе приветики. Я на новой ветке?</h1>
         <span className='welcome-text'>welcome to our small team!</span>
       </div>
     </div>
